@@ -1,3 +1,3 @@
-# Tiny-Farm
+# Ambatu-Farm
 
-A small farming game made in Love2d.
+EcoThon Game for substainable farming awareness, please ambatufarm.
